@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing SoCal Trench Crusade"];
+const statusMessages = ["Playing SoCal Trench Crusade","Moderating SoCal Trench Crusade","Managing server"];
 
 
 let currentIndex = 0;
